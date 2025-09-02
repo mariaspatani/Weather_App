@@ -20,6 +20,7 @@ JavaScript: For handling user input, fetching data from the API, and updating th
     OpenWeatherMap API: The free API used to fetch all the weather data.
 
 🤝 Contributing
+
 Contributions are welcome! If you find a bug or have an idea for an improvement, please open an issue or submit a pull request.
 
 📄 License
