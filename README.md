@@ -13,8 +13,8 @@ A simple and elegant web application to get real-time weather information for an
 
 🛠️ Technologies Used
 
-    HTML: For the basic structure and layout.
-    CSS: For styling, including the dynamic background images and a clean, modern look.   
+HTML: For the basic structure and layout.
+CSS: For styling, including the dynamic background images and a clean, modern look.   
 
 JavaScript: For handling user input, fetching data from the API, and updating the UI dynamically.  
     OpenWeatherMap API: The free API used to fetch all the weather data.
