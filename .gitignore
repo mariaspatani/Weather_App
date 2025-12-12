@@ -1,0 +1,17 @@
+.env
+.env.*
+.npmrc
+.yarnrc
+node_modules/
+dist/
+build/
+coverage/
+*.log
+*.tmp
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+.vercel
+.netlify
+
